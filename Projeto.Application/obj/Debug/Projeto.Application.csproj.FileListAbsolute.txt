@@ -1,0 +1,12 @@
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\bin\Debug\Projeto.Application.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\bin\Debug\Projeto.Application.pdb
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\bin\Debug\AutoMapper.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\bin\Debug\Projeto.Domain.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\bin\Debug\Projeto.Domain.pdb
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\bin\Debug\AutoMapper.pdb
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\bin\Debug\AutoMapper.xml
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\obj\Debug\Projeto.Application.csprojAssemblyReference.cache
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\obj\Debug\Projeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\obj\Debug\Projeto.Application.csproj.CopyComplete
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\obj\Debug\Projeto.Application.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Application\obj\Debug\Projeto.Application.pdb

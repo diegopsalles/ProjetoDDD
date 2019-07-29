@@ -1,0 +1,5 @@
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Domain\bin\Debug\Projeto.Domain.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Domain\bin\Debug\Projeto.Domain.pdb
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Domain\obj\Debug\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Domain\obj\Debug\Projeto.Domain.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Domain\obj\Debug\Projeto.Domain.pdb

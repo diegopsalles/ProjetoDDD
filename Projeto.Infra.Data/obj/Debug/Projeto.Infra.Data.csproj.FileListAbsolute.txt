@@ -1,0 +1,14 @@
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.dll.config
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.pdb
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\Projeto.Domain.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\Projeto.Domain.pdb
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.csproj.CopyComplete
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.dll
+C:\Users\Diego\Downloads\Aula25_projeto\Aula25\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.pdb
